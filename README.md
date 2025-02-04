@@ -34,13 +34,13 @@ git clone git@github
 pip install -e diffusion_policy/
 C. Data Processing
 The datsets should be processed as the following structure:
-< d a ta s e t _ na me >
-+−− < n a m e _ o f _ t r a j 1 > \newline
-| +−− 0 . j p g
-| +−− 1 . j p g
-| +−− . . .
-| +−− T_1 . j p g
-| \ − − t r a j _ d a t a . p k l
+< d a ta s e t _ na me >   
++−− < n a m e _ o f _ t r a j 1 >   
+| +−− 0 . j p g  
+| +−− 1 . j p g  
+| +−− . . .  
+| +−− T_1 . j p g  
+| \ − − t r a j _ d a t a . p k l  
 +−− < n a m e _ o f _ t r a j 2 >
 | +−− 0 . j p g
 | +−− 1 . j p g
