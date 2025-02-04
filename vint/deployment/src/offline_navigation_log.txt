@@ -1,0 +1,4 @@
+2024-12-14 14:22:59,221 - INFO - Logger initialized.
+2024-12-14 14:22:59,233 - INFO - Loading model from ../model_weights/nomad.pth
+2024-12-14 14:22:59,400 - INFO - number of parameters: 3.849538e+06
+2024-12-14 14:22:59,727 - INFO - Processing trajectory: no1vc_7_0
