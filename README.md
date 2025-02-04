@@ -35,7 +35,7 @@ pip install -e diffusion_policy/
 C. Data Processing
 The datsets should be processed as the following structure:
 < d a ta s e t _ na me >
-+−− < n a m e _ o f _ t r a j 1 >
++−− < n a m e _ o f _ t r a j 1 > \newline
 | +−− 0 . j p g
 | +−− 1 . j p g
 | +−− . . .
